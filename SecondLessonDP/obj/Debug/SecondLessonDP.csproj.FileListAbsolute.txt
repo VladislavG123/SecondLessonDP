@@ -1,0 +1,7 @@
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\SecondLessonDP\bin\Debug\SecondLessonDP.exe.config
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\SecondLessonDP\bin\Debug\SecondLessonDP.exe
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\SecondLessonDP\bin\Debug\SecondLessonDP.pdb
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\SecondLessonDP\obj\Debug\SecondLessonDP.csprojAssemblyReference.cache
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\SecondLessonDP\obj\Debug\SecondLessonDP.csproj.CoreCompileInputs.cache
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\SecondLessonDP\obj\Debug\SecondLessonDP.exe
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\SecondLessonDP\obj\Debug\SecondLessonDP.pdb

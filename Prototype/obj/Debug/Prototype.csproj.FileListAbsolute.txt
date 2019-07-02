@@ -1,0 +1,6 @@
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\Prototype\bin\Debug\Prototype.exe
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\Prototype\bin\Debug\Prototype.pdb
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\Prototype\obj\Debug\Prototype.exe
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\Prototype\obj\Debug\Prototype.pdb

@@ -1,0 +1,7 @@
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\Builder\bin\Debug\Builder.exe.config
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\Builder\bin\Debug\Builder.exe
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\Builder\bin\Debug\Builder.pdb
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\Builder\obj\Debug\Builder.exe
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\Builder\obj\Debug\Builder.pdb
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\Builder\obj\Debug\Builder.csprojAssemblyReference.cache

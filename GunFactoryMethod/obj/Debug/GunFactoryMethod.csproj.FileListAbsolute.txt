@@ -1,0 +1,7 @@
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\GunFactoryMethod\bin\Debug\GunFactoryMethod.exe.config
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\GunFactoryMethod\bin\Debug\GunFactoryMethod.exe
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\GunFactoryMethod\bin\Debug\GunFactoryMethod.pdb
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\GunFactoryMethod\obj\Debug\GunFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\GunFactoryMethod\obj\Debug\GunFactoryMethod.exe
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\GunFactoryMethod\obj\Debug\GunFactoryMethod.pdb
+C:\Users\гороховв.CORP\source\repos\SecondLessonDP\GunFactoryMethod\obj\Debug\GunFactoryMethod.csprojAssemblyReference.cache
